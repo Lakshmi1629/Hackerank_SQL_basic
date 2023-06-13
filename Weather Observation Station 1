@@ -1,0 +1,2 @@
+select s.CITY,s.STATE
+from STATION s;
